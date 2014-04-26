@@ -1,0 +1,2 @@
+exports.squeeze = require('./squeeze');
+

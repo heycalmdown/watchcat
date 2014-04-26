@@ -1,0 +1,8 @@
+{
+	"name": "watchcat",
+	"version": "0.1.0",
+	"dependencies": {
+		"filesize": "",
+		"cli-table": ""
+	}
+}
