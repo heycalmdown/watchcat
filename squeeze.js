@@ -10,6 +10,9 @@ function drawTable(rows) {
 	rows.forEach(function (row) {
 		table.push(row);
 	});
+	if (process.stdout.columns < table.width) {
+		return;
+	}
 	console.info(table.toString());
 }
 

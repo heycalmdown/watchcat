@@ -1,8 +1,22 @@
 {
-	"name": "watchcat",
-	"version": "0.1.0",
-	"dependencies": {
-		"filesize": "",
-		"cli-table": ""
-	}
+  "name": "watchcat",
+  "version": "0.1.1",
+  "dependencies": {
+    "filesize": "",
+    "cli-table": ""
+  },
+  "description": "watchcat ========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heycalmdown/watchcat.git"
+  },
+  "author": "Kei Son <hey.calmdown@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/heycalmdown/watchcat/issues"
+  },
+  "homepage": "https://github.com/heycalmdown/watchcat"
 }
