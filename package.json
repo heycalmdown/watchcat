@@ -1,9 +1,9 @@
 {
   "name": "watchcat",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
-    "filesize": "",
-    "cli-table": ""
+    "filesize": "4.2.0",
+    "cli-table": "0.3.1"
   },
   "description": "watchcat ========",
   "main": "index.js",
